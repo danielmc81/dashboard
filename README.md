@@ -27,5 +27,6 @@ Shiba-Inu
    ```use dasboard```
 7. Lanzar la libreta con el dashboar desde la linea de comandos en otra terminal  
    ```jupyter nbconvert --execute dashboard.ipynb```
-9. Abrir un explorador e ingresar la siguiente IP  
-   ```http://127.0.0.1:8052/```
+9. Abrir un explorador e ingresar la IP:PORT que te asignó.
+10. Un ejemplo estara ejecutandose en la siguiente dirección. Tendras que iniciar sesión en ondemand-acarus.unison.mx, abrir un escritorio remoto y una vez dentro abrir firefox e ingresar la dirección.
+   ```http://172.16.51.7:8052/```
