@@ -1,4 +1,4 @@
-# Dashboard con DASH y MongoDB
+# Dashboard con Jupyter Notebook, DASH, MongoDB y CoinGecko API
 
 Este trabajo se realizo como parte de la maestría en ciencia de datos de la Universidad de Sonora
 
@@ -25,7 +25,7 @@ Shiba-Inu
    ```mongo```
 6. Crear la base de datos  
    ```use dasboard```
-7. Lanzar la libreta con el dashboar desde la linea de comandos  
+7. Lanzar la libreta con el dashboar desde la linea de comandos en otra terminal  
    ```jupyter nbconvert --execute dashboard.ipynb```
-9. Abrir un explorador e ingresar la siguiente IP
+9. Abrir un explorador e ingresar la siguiente IP  
    ```http://127.0.0.1:8052/```
